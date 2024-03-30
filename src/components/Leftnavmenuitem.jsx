@@ -1,7 +1,7 @@
 import React from "react";
 
 const Leftnavmenuitem = () => {
-  return <div>Leftnavmenuitem Leftnavmenuitem</div>;
+  return <div>Leftnavmenuitem </div>;
 };
 
 export default Leftnavmenuitem;
