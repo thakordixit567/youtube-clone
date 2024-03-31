@@ -5,7 +5,7 @@ export const Context = createContext();
 
 export const AppContext = (props) => {
   const [loading, setLoading] = useState(false);
-  const [serachresults, setsearchResult] = useState(false);
+  const [serachresults, setsearchResult] = useState([]);
   const [selectCatogoies, setsetselectCatogoies] = useState("New");
   const [mobileMenu, setmobileMenu] = useState(false);
 
