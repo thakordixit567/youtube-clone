@@ -5,7 +5,7 @@ export const Context = createContext();
 
 export const AppContext = (props) => {
   const [loading, setLoading] = useState(false);
-  const [searchResult, setsearchResult] = useState(false);
+  const [serachresults, setsearchResult] = useState(false);
   const [selectCatogoies, setsetselectCatogoies] = useState("New");
   const [mobileMenu, setmobileMenu] = useState(false);
 
@@ -27,7 +27,7 @@ export const AppContext = (props) => {
       value={{
         loading,
         setLoading,
-        searchResult,
+        serachresults,
         setsearchResult,
         selectCatogoies,
         setsetselectCatogoies,
