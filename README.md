@@ -8,7 +8,7 @@ DEMO ---->
 ---------------------
 https://dix-youtube-pro.netlify.app/
 
-![image](https://github.com/thakordixit567/DIX-STORE/blob/master/DIX-STORE-PRO/src/DEMO/Screenshot%20(201).png)
+![image](https://github.com/thakordixit567/youtube-clone/blob/master/public/DEMO/Screenshot%202024-04-02%20182720.png)
 
 
 
